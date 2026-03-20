@@ -62,3 +62,7 @@ iframe.maps {
     }
 
 }
+
+.line-initial {
+	line-height: initial;
+}
