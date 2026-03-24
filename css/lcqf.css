@@ -8,6 +8,10 @@
     text-transform: uppercase;
 }
 
+h2{
+    font-weight:100;
+}
+
 .navbar-default{
     background-color: black;
 }
